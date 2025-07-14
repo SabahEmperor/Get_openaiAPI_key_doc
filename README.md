@@ -1,2 +1,2 @@
 # Get_openaiAPI_key_doc
-none
+Please read Get_APIkey.md
